@@ -1,5 +1,6 @@
 {
-    "name": "deliciousbrains/wp-background-processing",
+    "name": "crowdfavorite/wp-background-processing",
+    "type": "library",
     "authors": [
         {
             "name": "Ashley Rich",
